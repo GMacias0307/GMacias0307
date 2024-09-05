@@ -14,12 +14,6 @@
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: linkedin.com/in/gabriel-macias-238081232
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
