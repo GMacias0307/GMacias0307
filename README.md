@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Gabriel! <br/><ahref="linkedin.com/in/gabriel-macias-238081232">Cybersecurity Student</a> 
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+
+<h2>🏆 Certifications:</h2>
+
+- [Google Cybersecurity Professional]
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: linkedin.com/in/gabriel-macias-238081232
 
 <!--
-**GMacias0307/GMacias0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
