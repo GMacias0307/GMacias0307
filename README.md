@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab](https://github.com/GMacias0307/ActiveDirectoryLab)
+  - [SIEM Home Lab]
 
 <h2>🏆 Certifications:</h2>
 
