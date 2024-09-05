@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/GMacias0307/ActiveDirectoryLab)
   - [SIEM Home Lab](https://github.com/GMacias0307/SIEMHomeLab/tree/main)
   - [Vulnerability Management Home Lab](https://github.com/GMacias0307/VulnerabilityManagementHomeLab)
-  - [File Integrity Home Lab]
+  - [File Integrity Home Lab](https://github.com/GMacias0307/FileIntegrityHomeLab)
 <h2>🏆 Certifications:</h2>
 
 - [Google Cybersecurity Professional]
